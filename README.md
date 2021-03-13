@@ -1,2 +1,2 @@
 # fastapi-sqlalchemy-postgres
- Fastapi with sqlachemy connection to PostgresDB. 
+ Template API to access Postgres with Fastapi and sqlachemy. 
